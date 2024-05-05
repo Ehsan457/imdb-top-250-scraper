@@ -43,6 +43,9 @@ git clone https://github.com/Ehsan457/weather-app.git
 pip install -r requirements.txt
 ```
 
-4. Finally, you can modify the config file according to your needs and run the scripts. For ease of use, simply run createDB.py followed by createTable.py, and then run main.py to store the data in your database.
+4. At the end, simply execute the main script using this command:
+```bash
+python get_top250_movies.py
+```
 
   
