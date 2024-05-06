@@ -71,7 +71,7 @@ def main():
         if output:
             df = pd.DataFrame(output)
             # Save the output file as a CSV in the Output folder
-            df.to_csv("Output/imdb_top_250_movies.csv", index=False)
+            df.to_csv("imdb_top_250_movies.csv", index=False)
             logging.info("CSV file created.")
         else:
             logging.warning("No data found to create CSV.")
