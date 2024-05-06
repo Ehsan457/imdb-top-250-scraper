@@ -35,7 +35,7 @@ source ./imdbcrawlerenv/bin/activate
 3. You can then clone the repository using this command:
 
 ```bash
-git clone https://github.com/Ehsan457/weather-app.git
+git clone https://github.com/Ehsan457/imdb-top-250-scraper
 ```
 
 3. Install dependencies with this command:
